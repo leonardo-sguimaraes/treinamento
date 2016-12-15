@@ -32,6 +32,7 @@ namespace Extraindo_Comportamentos
             MessageBox.Show("Nome do cliente: " + cliente.nome);
             MessageBox.Show("RG: " + cliente.rg);
             MessageBox.Show("Endereço: " + cliente.endereço);
+            MessageBox.Show
           
 
 }}}
